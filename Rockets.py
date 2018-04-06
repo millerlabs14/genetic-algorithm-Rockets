@@ -1,3 +1,7 @@
+#Name:   Rockets.py
+#Author: William Miller
+#Date:   6-4-18
+
 import tkinter as tk
 import time
 import random
